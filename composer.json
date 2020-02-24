@@ -1,0 +1,34 @@
+{
+    "name": "municipio/municipio-bundle-headless",
+    "description": "Bundled plugins for a headless setup of Wordpress with Municipio",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Whitespace Dev",
+            "email": "code@whitespace.se"
+        }
+    ],
+    "type": "metapackage",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:whitespace-se/wp-graphql-acf.git",
+            "no-api": true
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "helsingborg-stad/modularity": "^2.12",
+        "helsingborg-stad/municipio": "1.30.3",
+        "rarst/update-blocker": "^1.1",
+        "wp-graphql/wp-graphql": "^0.6.1",
+        "wp-graphql/wp-graphiql": "^1.0",
+        "wp-graphql/wp-graphql-acf": "dev-municipio"
+    }
+}
