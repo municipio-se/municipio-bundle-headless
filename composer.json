@@ -18,6 +18,11 @@
             "type": "vcs",
             "url": "git@github.com:whitespace-se/wp-graphql-acf.git",
             "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:whitespace-se/modularity-graphql.git",
+            "no-api": false
         }
     ],
     "config": {
@@ -26,6 +31,7 @@
     "require": {
         "helsingborg-stad/modularity": "^2.12",
         "helsingborg-stad/municipio": "1.30.3",
+        "municipio/modularity-graphql": "1.0.0",
         "rarst/update-blocker": "^1.1",
         "wp-graphql/wp-graphql": "^0.6.1",
         "wp-graphql/wp-graphiql": "^1.0",
