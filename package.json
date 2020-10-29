@@ -1,0 +1,14 @@
+{
+  "name": "@municipio/bundle-headless",
+  "version": "1.4.0",
+  "description": "Bundled plugins for a headless setup of Wordpress with Municipio",
+  "repository": "git@github.com:municipio-se/municipio-bundle-headless.git",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.{js,json,md,yml}'"
+  }
+}
