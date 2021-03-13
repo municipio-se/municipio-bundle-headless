@@ -1,3 +1,7 @@
+## 3.0.0 (March 13, 2021)
+
+- Update WP GraphQL plugins
+
 ## 2.0.1 (October 29, 2020)
 
 - Fix installability

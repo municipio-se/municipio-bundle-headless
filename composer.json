@@ -17,11 +17,6 @@
     },
     {
       "type": "vcs",
-      "url": "git@github.com:whitespace-se/wp-graphql-acf.git",
-      "no-api": true
-    },
-    {
-      "type": "vcs",
       "url": "git@github.com:whitespace-se/modularity-graphql.git",
       "no-api": false
     }
@@ -48,9 +43,8 @@
     "helsingborg-stad/municipio": "~1.30.3",
     "helsingborg-stad/readspeaker-helper": "~2.0.0",
     "municipio/modularity-graphql": "^1.16.0",
-    "wp-graphql/wp-graphiql": "^1.0",
-    "wp-graphql/wp-graphql": "^0.6.1",
-    "wp-graphql/wp-graphql-acf": "dev-municipio",
+    "wp-graphql/wp-graphql": "^1.2.5",
+    "wp-graphql/wp-graphql-acf": "^0.4.1",
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
     "wpackagist-plugin/mce-table-buttons": "^3.3",
     "wpackagist-plugin/redirection": "^4.7",
