@@ -42,7 +42,7 @@
     "helsingborg-stad/modularity-form-builder": "~1.9.0",
     "helsingborg-stad/municipio": "~1.30.3",
     "helsingborg-stad/readspeaker-helper": "~2.0.0",
-    "municipio/modularity-graphql": "^1.16.0",
+    "municipio/modularity-graphql": "^3.0.0",
     "wp-graphql/wp-graphql": "^1.2.5",
     "wp-graphql/wp-graphql-acf": "^0.4.1",
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
