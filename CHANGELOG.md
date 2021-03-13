@@ -1,3 +1,9 @@
+## 4.0.0 (March 13, 2021)
+
+- Prefer stable packages
+- Use stable version of api-event-manager-integration
+- Add mu-plugin dependency
+
 ## 3.0.0 (March 13, 2021)
 
 - Update WP GraphQL plugins
