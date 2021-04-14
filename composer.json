@@ -45,6 +45,7 @@
     "helsingborg-stad/readspeaker-helper": "~2.0.0",
     "jawira/case-converter": "^3.4.2",
     "municipio/modularity-graphql": "^3.0.0",
+    "roots/bedrock-autoloader": "^1.0",
     "wp-graphql/wp-graphql": "^1.2.5",
     "wp-graphql/wp-graphql-acf": "^0.4.1",
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
