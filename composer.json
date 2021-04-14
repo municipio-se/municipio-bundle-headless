@@ -47,6 +47,7 @@
     "municipio/modularity-graphql": "^3.0.0",
     "roots/bedrock-autoloader": "^1.0",
     "whitespace-se/wordpress-plugin-gatsby": "^0.1.0",
+    "whitespace-se/wordpress-plugin-headless-cms": "^0.1.1",
     "wp-graphql/wp-graphql": "^1.2.5",
     "wp-graphql/wp-graphql-acf": "^0.4.1",
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
