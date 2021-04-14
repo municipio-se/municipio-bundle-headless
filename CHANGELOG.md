@@ -1,3 +1,12 @@
+## 5.0.0 (April 14, 2021)
+
+- Add bedrock-autoloader, whitespace-gatsby, whitespace-headless-cms and
+  whitespace-wp-graphql-extras
+
+### Breaking changes
+
+- Remove special repo for modularity-graphql
+
 ## 4.0.0 (March 13, 2021)
 
 - Prefer stable packages
