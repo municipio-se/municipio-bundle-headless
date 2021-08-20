@@ -40,7 +40,7 @@
     "helsingborg-stad/readspeaker-helper": "~2.0.0",
     "jawira/case-converter": "^3.4.2",
     "municipio/modularity-graphql": "^5",
-    "municipio/municipio-gatsby": ">=0.3.0",
+    "municipio/municipio-gatsby": "^0.5",
     "roots/bedrock-autoloader": "^1.0",
     "whitespace-se/wordpress-plugin-gatsby": "^0.1.0",
     "whitespace-se/wordpress-plugin-headless-cms": "^0.1.1",
