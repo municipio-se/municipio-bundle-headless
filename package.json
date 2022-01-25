@@ -1,6 +1,6 @@
 {
   "name": "@municipio/bundle-headless",
-  "version": "9.1.0",
+  "version": "10.0.0",
   "description": "Bundled plugins for a headless setup of Wordpress with Municipio",
   "repository": "git@github.com:municipio-se/municipio-bundle-headless.git",
   "license": "AGPL-3.0-or-later",

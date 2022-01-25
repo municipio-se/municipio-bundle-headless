@@ -1,3 +1,14 @@
+## [10.0.0](https://github.com/municipio-se/municipio-bundle-headless/compare/9.1.0...10.0.0) (2022-01-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Upgrade deps
+
+### Features
+
+* **deps:** Upgrade deps ([addcd6d](https://github.com/municipio-se/municipio-bundle-headless/commit/addcd6db0d2e3a780710c3010cf3efa4c279f8a6))
+
 ## [9.1.0](https://github.com/municipio-se/municipio-bundle-headless/compare/9.0.0...9.1.0) (2022-01-14)
 
 
