@@ -1,3 +1,10 @@
+### [10.0.1](https://github.com/municipio-se/municipio-bundle-headless/compare/10.0.0...10.0.1) (2022-03-31)
+
+
+### Bug Fixes
+
+* Remove closed plugin mce-table-buttons ([2620c99](https://github.com/municipio-se/municipio-bundle-headless/commit/2620c99ba25ed56b635058ff75a41d2d34b31148))
+
 ## [10.0.0](https://github.com/municipio-se/municipio-bundle-headless/compare/9.1.0...10.0.0) (2022-01-25)
 
 
