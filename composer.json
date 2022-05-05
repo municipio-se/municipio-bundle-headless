@@ -44,6 +44,7 @@
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
     "vlucas/phpdotenv": "^5.4",
+    "whitespace-se/wordpress-plugin-a11ystack": "^1.2.0",
     "whitespace-se/wordpress-plugin-gatsby": "^1.0.0",
     "whitespace-se/wordpress-plugin-headless-cms": "^1.0.0",
     "whitespace-se/wordpress-plugin-wp-graphql-extras": "^1.0.0",
