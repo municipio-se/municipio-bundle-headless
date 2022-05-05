@@ -1,3 +1,10 @@
+## [10.1.0](https://github.com/municipio-se/municipio-bundle-headless/compare/10.0.1...10.1.0) (2022-05-05)
+
+
+### Features
+
+* Add whitespace-a11ystack plugin ([25b339e](https://github.com/municipio-se/municipio-bundle-headless/commit/25b339eae2d58a93eb230d29a608e339c9a6f12f))
+
 ### [10.0.1](https://github.com/municipio-se/municipio-bundle-headless/compare/10.0.0...10.0.1) (2022-03-31)
 
 
