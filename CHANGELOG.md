@@ -1,3 +1,15 @@
+## [11.0.0](https://github.com/municipio-se/municipio-bundle-headless/compare/10.1.0...11.0.0) (2022-09-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Replace customer-feedback module
+
+### Features
+
+* Allow composer plugins ([76c9d81](https://github.com/municipio-se/municipio-bundle-headless/commit/76c9d815f146f580b52ca5fbf27f3256d8fc3141))
+* Replace customer-feedback module ([e55e79f](https://github.com/municipio-se/municipio-bundle-headless/commit/e55e79f177ddb39604c5807e0b2c5f9093b130a6))
+
 ## [10.1.0](https://github.com/municipio-se/municipio-bundle-headless/compare/10.0.1...10.1.0) (2022-05-05)
 
 
