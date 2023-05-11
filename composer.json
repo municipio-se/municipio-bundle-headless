@@ -15,12 +15,7 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:whitespace-se/broken-link-detector.git",
-      "no-api": true
-    },
+    }
   ],
   "config": {
     "sort-packages": true,
@@ -36,7 +31,6 @@
     "helsingborg-stad/api-event-manager-integration": "0.15.12",
     "helsingborg-stad/attachment-revisions": "~1.2.0",
     "helsingborg-stad/better-post-ui": "~1.2.0",
-    "helsingborg-stad/broken-link-detector": "dev-master",
     "helsingborg-stad/content-scheduler": "~1.2.0",
     "helsingborg-stad/custom-short-links": "~1.1.0",
     "helsingborg-stad/force-ssl": "~1.0.0",
