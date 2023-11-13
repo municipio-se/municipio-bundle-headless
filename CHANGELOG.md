@@ -1,3 +1,14 @@
+## [12.0.0](https://github.com/municipio-se/municipio-bundle-headless/compare/11.0.0...12.0.0) (2023-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update plugins
+
+### Features
+
+* Update plugins ([cb3bb32](https://github.com/municipio-se/municipio-bundle-headless/commit/cb3bb3254eb58cbfa0f68672f46fe3274b2e0f4e))
+
 ## [11.0.0](https://github.com/municipio-se/municipio-bundle-headless/compare/10.1.0...11.0.0) (2022-09-25)
 
 
